@@ -1,14 +1,58 @@
 {
     "assuntos" : {
-        "historia" : [],
+        "historia" : [
+            "problema de se trabalhar em equipe", 
+            "controle de versão", 
+            "controles de versão antigos", 
+            "linux", 
+            "linus torvalds", 
+            "surgimento do git", 
+            "explicar diferença de git e github"],
         "instalacao" : [],
+        "como ativar o git no meu projeto?" : [
+            "acessar terminal", 
+            "comando git init"
+        ],
         "o que sao repositorios" : [],
-        "o que pode acontecer dentro de cada repositorio" : ["stage area", "commits", "stash", "etc"],
-        "reglog": [],
+        "como os arquivos são tratados dentro um repositorio?" : [
+            "estados de um arquivo"
+        ],
+        "como os arquivos são manipulados" : {
+            "como alterar um arquivo" : [
+                "stage area"
+            ],
+            "como rever alterações de um arquivo" : [
+                "checkout", 
+                "reset"
+            ],
+            "como salvar alterações de um arquivo" : [
+                "commit"
+            ],
+            "revertando alteração em um arquivo que já foi commitado" : [
+                "reset"
+            ],
+            "como esconder alterações temporariamente" : [
+                "stash"]
+
+        },
+        "como saber o que aconteceu no repositorio" : {
+            "log" : [
+                "log complexo", 
+                "log simples", 
+                "etc"
+            ],
+            "reflog" : [
+                "como ler o reflog", 
+                "o que é o head"
+            ]
+        },
         "branches": [],
-        "stash": [],
         "trabalhando em equipe": {
-            "repositorio remoto": [],
+            "repositorio remoto": [
+                "clonar projeto", 
+                "criar repositorio remoto", 
+                "pull request"
+            ],
             "merge e rebase": []
         },
         "merge e rebase": [],
@@ -16,6 +60,12 @@
             "fazendo checkout para commits antigos": [],
             "controle de tags": [],
             "cherry-pick": []
+        },
+        "extras" : {
+            "em quais casos é interessante usar git?" : [],
+            "principais diferenças do git para outros vcs" : [],
+            "sites de referencias" : ["referencia e boas práticas", "outras referencias"],
+            "link da apresentacao" : "link"
         }
 
     }

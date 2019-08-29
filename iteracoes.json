@@ -1,6 +1,7 @@
 {
     "iteracoes" : {
         "1" : "montar json com os assuntos que já tinham sido definidos",
-        
+        "2" : "tentar abstrair os assuntos e criar os tópicos a partir deles"
+
     }
 }
