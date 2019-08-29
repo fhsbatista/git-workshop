@@ -1,0 +1,22 @@
+{
+    "assuntos" : {
+        "historia" : [],
+        "instalacao" : [],
+        "o que sao repositorios" : [],
+        "o que pode acontecer dentro de cada repositorio" : ["stage area", "commits", "stash", "etc"],
+        "reglog": [],
+        "branches": [],
+        "stash": [],
+        "trabalhando em equipe": {
+            "repositorio remoto": [],
+            "merge e rebase": []
+        },
+        "merge e rebase": [],
+        "topicos que podem entrar ou não": {
+            "fazendo checkout para commits antigos": [],
+            "controle de tags": [],
+            "cherry-pick": []
+        }
+
+    }
+}
