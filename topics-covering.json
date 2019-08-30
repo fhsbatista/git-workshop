@@ -1,12 +1,11 @@
 {
     "assuntos" : {
         "historia" : [
-            "problema de se trabalhar em equipe", 
+            "problemas comuns ao desenvolver software", 
             "controle de versão", 
-            "controles de versão antigos", 
-            "linux", 
-            "linus torvalds", 
-            "surgimento do git", 
+            "linux",  
+            "surgimento do git",
+            "vantagens do git em relação a outros sistemas",
             "explicar diferença de git e github"],
         "instalacao" : [],
         "como ativar o git no meu projeto?" : [
